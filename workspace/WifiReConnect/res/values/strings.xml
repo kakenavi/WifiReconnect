@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WifiReConnect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Msg_Status_Now_Check">インターネット接続を確認中です。</string>
+    <string name="Msg_Status_Connected_Internet">インターネットに接続されています。</string>
+    <string name="Msg_Status_Not_Connected_Internet">インターネットに接続されていません。</string>
+    <string name="Msg_Action_Wifi_Reconnect">Wi-Fiを再接続しています。</string>
+    <string name="Msg_Result_Failed_Reconnect">だめでした。ごめんなさい。</string>
+    <string name="Msg_Dummy_Null"/>
+
+</resources>
